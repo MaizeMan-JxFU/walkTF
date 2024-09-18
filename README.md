@@ -25,3 +25,4 @@ from walkTF import walk_target_files
 print(walk_target_files())
 ```
 It will output all files in current direction if you do not give any parameters.
+The result is a list of [(file_root, file)]
