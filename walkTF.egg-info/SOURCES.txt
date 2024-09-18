@@ -1,0 +1,7 @@
+setup.py
+walkTF/__init__.py
+walkTF/main.py
+walkTF.egg-info/PKG-INFO
+walkTF.egg-info/SOURCES.txt
+walkTF.egg-info/dependency_links.txt
+walkTF.egg-info/top_level.txt
