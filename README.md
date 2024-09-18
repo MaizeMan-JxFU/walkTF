@@ -9,7 +9,7 @@ It is a Python packadge that can help you obtain target files, and save the file
 
 ## Installation
 
-Download walkTF from github, and then enter 'walkTF/dist':
+Download walkTF from github, and then enter './walkTF-master':
 ```
 cd walkTF/dist
 ```
